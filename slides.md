@@ -1,13 +1,12 @@
 ---
 marp: true
-theme: custom-doc
+theme: gaia
 paginate: true
 _paginate: true
 math: mathjax
 ---
 
 <!--
-theme: custom-doc
 class: lead
 -->
 
