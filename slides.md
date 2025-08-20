@@ -1,10 +1,29 @@
 ---
 marp: true
-theme: gaia
+theme: marpit-theme
 paginate: true
 _paginate: true
 math: mathjax
 ---
+<style>
+/* @theme marpit-theme */
+
+:root {
+  width: 1280px;
+  height: 960px;
+  font-size: 40px;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: #09c;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+</style>
 
 <!--
 class: lead
@@ -17,6 +36,8 @@ class: lead
 
 ---
 
+<!-- _class: lead -->
+
 # Agenda
 
 1. Introduction
@@ -26,6 +47,8 @@ class: lead
 5. Next Steps
 
 ---
+
+<!-- _color: red -->
 
 # Features
 
