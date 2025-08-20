@@ -1,12 +1,11 @@
 ---
 marp: true
-theme: custom-docs
 paginate: true
 _paginate: true
+math: mathjax
 ---
 
 <!--
-theme: custom-docs
 class: lead
 -->
 
@@ -36,7 +35,7 @@ class: lead
 
 ---
 
-![bg](https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg)
+![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
 # Architecture
 
@@ -102,5 +101,3 @@ footer {
   color: #586e75;
 }
 </style>
-
-
