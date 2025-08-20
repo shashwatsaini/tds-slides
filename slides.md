@@ -36,7 +36,7 @@ class: lead
 
 ---
 
-<!-- backgroundImage: url('https://images.unsplash.com/photo-1526378722484-cc5c510f0ebe?auto=format&fit=crop&w=1600&q=80') -->
+<!-- backgroundImage: url('https://static.vecteezy.com/system/resources/thumbnails/036/324/708/small/ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg') -->
 
 # Architecture
 
@@ -102,3 +102,4 @@ footer {
   color: #586e75;
 }
 </style>
+
